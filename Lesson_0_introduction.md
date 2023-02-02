@@ -1,4 +1,4 @@
-# Welcome to the Introduction to Bioinformatic for Biologist Course
+# Welcome to Programación para Bioinformática Course.
 Me: Joaquín Giner
 
 Location: CBGP CsBGP Laboratory 
