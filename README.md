@@ -10,13 +10,12 @@ Github of Programación para Bioinformática Course of Biotechnology Grade(UPM)
 Coordinator: Joaquín Giner Lamia
 <br />
 
-### WHAT YOU NEED TO DO BEFORE THE FIRST DAY
+### WHAT YOU NEED TO DO BEFORE THE FIRST DAY....
 
 Windows VMWare Player: [VMWare](https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0) <br />
 Mac VirtualBox: [VirtualBox](https://www.virtualbox.org/)  <br/>
 
 You should download and unzip the Virtual Machine we have created for this course: [Virtual Machine](https://drive.google.com/drive/u/0/folders/1La8Tr3OjuusEJZU270O3rWTJPjUW_iH7)
-
 
 **WINDOWS**:  Start VMWare, and select "open virtual machine".  Browse to the folder that you just unzipped.  Double-click.
 
@@ -30,7 +29,7 @@ Once the virtual machine starts, your default password is 'osboxes.org'
 
 Dear Students, 
 
-You will take this course using a VMWare Virtual Machine.  You should do the following:
+If youy want you can take this course using a VMWare Virtual Machine.  You should do the following:
 
 0. CREATE AN ACCOUNT ON GitHub (this website) if you haven't already got one...
 1. Download VMWare Player (if you haven't already got it): [VMWare](https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0)
