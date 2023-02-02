@@ -3,19 +3,13 @@ Me: Joaquín Giner
 
 Location: CBGP CsBGP Laboratory 
 
-This tutorial and the VM was created by *Mark Wilkinson*. *Joaquín Giner* have only performed some comestic changes.
+This material was created by *Joaquín Giner*.
 
 <br />
 
-## Your Virtual Machine
 
 
-### Main components
-Linux Mint 20 64-bit (with Xfce interface).
-
-<br />
-
-### General Description
+### General Introduction
 
 <br />
 
@@ -35,9 +29,9 @@ Linus Torvalds was a Helsinki university student who liked playing around with s
 [Linus Torvalds easter egg](https://www.pcmag.com/news/linuxs-linus-torvalds-sorry-for-being-a-jerk)
 <br />
 
-### Linux Mint 20.0
+### Ubuntu Mate
 
-***Unlike Windows, there are many different interfaces ("shells"), distributions, and "flavours" of Linux***. Obviously, the shell that is on your Android phone is very different from the shell you are using now (Mint 20). Note that there are also many different shells for your phone! Linux will also be embedded in devices like Raspberry PI, your WiFi router, your Smart TV, entertainment systems in your car, and spacecraft. ***Linux can be very very small - there are distributions of Linux that will run in as little as 3MB of RAM!***
+***Unlike Windows, there are many different interfaces ("shells"), distributions, and "flavours" of Linux***. Obviously, the shell that is on your Android phone is very different from the shell you are using now. Note that there are also many different shells for your phone! Linux will also be embedded in devices like Raspberry PI, your WiFi router, your Smart TV, entertainment systems in your car, and spacecraft. ***Linux can be very very small - there are distributions of Linux that will run in as little as 3MB of RAM!***
 
 
 <p align="center">
@@ -51,8 +45,6 @@ Linus Torvalds was a Helsinki university student who liked playing around with s
 2. The main menu is the green "mint" icon at the bottom left. 
 3. Applications are sorted based on their general type. 
 4. Mint comes with Libre Office, which is like Microsoft Office (but free!), Firefox web browser, and a wide range of basic utilities like PDF file readers, etc. 
-5. Our VM also contains Visual Studio Code (an editor for writing software) - the icon for this is on your desktop. 
-6. The default keyboard layout of the VM have been set to be "Spanish". If you click the spanish flag in the bottom right, you can switch to a US-layout keyboard.
 
 <br />
 
@@ -115,10 +107,7 @@ To repeat a previous command, press the UP ARROW until you see that command at t
 
 <br />
 
-### Switching between the VM and your native Operating System
-You will notice that you cannot click on your Windows/Mac desktop after you have clicked on the VM. This is because all Mouse commands are now being sent to the VM. To move "focus" back to your native Operating System, click CTRL+ALT. To move focus back to the VM, just click anywhere in the VM window. I DON'T KNOW HOW TO DO THIS ON A MAC. PLEASE TELL ME IF YOU KNOW.
 
-<br />
 
 ### Useful Applications
 The most used applications are immediately available in the menu bar.
