@@ -4,8 +4,8 @@
 
 <br />
 
-# Introduction to Bioinformatic for Biologists
-Github of Introduction to Bioinformatic for Biologist Course of Computational Biology Master (UPM)
+# Introduction a la Programación para Biociencias
+Github of Programación para Bioinformática Course of Biotechnology Grade(UPM)
 
 Coordinator: Joaquín Giner Lamia
 <br />
