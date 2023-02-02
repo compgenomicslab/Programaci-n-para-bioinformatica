@@ -1,5 +1,5 @@
 # Welcome to Programación para Bioinformática Course.
-Me: Joaquín Giner
+Me: Joaquín Giner Lamia
 
 Location: CBGP CsBGP Laboratory 
 
