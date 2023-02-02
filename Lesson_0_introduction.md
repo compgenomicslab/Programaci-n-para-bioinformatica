@@ -89,11 +89,10 @@ Type: "cd Course" ("cd" = "Change directory") and press Enter. Your command prom
 
 ***Autocomplete*** is a common feature in most Linux distributions, and is activated by pressing the 'Tab' key. Autocomplete is "smart" in that it will select either an app (in the context where you need an app) or a file-name (in the context where you need a filename). Try this:
 
-`osboxes@osboxes ~/Course $ fire`                 (now press Tab)
+`osboxes@osboxes ~ $ cd Doc`                 (now press Tab)
 
-`osboxes@osboxes ~/Course $ firefox`              (now press Tab again)
+`osboxes@osboxes ~ $ cd Documents`              (now press Tab again)
 
-`osboxes@osboxes ~/Course $ firefox Accelerated_Intro_to_CompBio_Part_1/`
 
 Remember this! It's a very cool trick that will speed-up your typing!!!
 
@@ -101,12 +100,11 @@ To go "up" one level of directory, type 'cd ..' (two dots)
 
 To go back to your "home" directory, from anywhere, type 'cd ~'
 
-`osboxes@osboxes ~/Course $ cd ~`
+`osboxes@osboxes ~/Documents $ cd ~`
 
 To repeat a previous command, press the UP ARROW until you see that command at the prompt (DOWN ARROW takes you through the command history in the other direction)
 
 <br />
-
 
 
 ### Useful Applications
